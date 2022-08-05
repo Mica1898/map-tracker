@@ -1,5 +1,40 @@
 # map-tracker
 
-title: Map Tracker
+**Title: Map Tracker**
 
-Description: A map that has a moving marker to imitate a Seattle Bus Route. You can search for directions and able to move the map with the top right buttons. Click the Seattle Bus Route to see the marker move.
+**Description:**
+A map that has a moving marker to imitate a Seattle Bus Route. 
+
+**How To Run:**
+- You can search for directions and able to move the map with the top right buttons. 
+- Click the Seattle Bus Route to see the marker move.
+
+**Roadmap For Future Improvements**
+
+I am going to have the marker correspond with with the direction feature.
+
+**License**
+MIT License
+
+Copyright (c) 2020 John Williams
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
